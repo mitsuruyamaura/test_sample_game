@@ -4,7 +4,7 @@
 
 ## 🎃 Play
 
-[Play PUMPKIN KNIGHT](https://mitsuruyamaura.github.io/pumpkin_knight_webgl/)
+[Play PUMPKIN KNIGHT](https://mitsuruyamaura.github.io/test_sample_game/)
 
 ## About
 
