@@ -14,11 +14,16 @@
 
 ## Game Preview
 
-![MAIN](images/main_1.png)
+制作中のゲーム画面です。
 
-![BATTLE](images/battle_1.png)
+### MAIN
+![MAIN](images/main_1.jpg)
 
-![COOKING](images/cooking_1.png)
+### BATTLE
+![BATTLE](images/battle_1.jpg)
+
+### COOKING
+![COOKING](images/cooking_1.jpg)
 
 ## Platform
 
