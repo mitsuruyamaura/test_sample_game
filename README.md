@@ -20,7 +20,7 @@
 ![MAIN](images/main_1.jpg)
 
 ### BATTLE
-![BATTLE](images/battle_1.jpg)
+![BATTLE](images/battle_2.jpg)
 
 ### COOKING
 ![COOKING](images/cooking_1.jpg)
