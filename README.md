@@ -2,7 +2,7 @@
 
 ![PUMPKIN KNIGHT](images/key_visual.png)
 
-## 🎃 Play　↓ こちらからプレイできます。
+## 🎃 Play　↓ こちらからデモ版のプレイができます。
 
 [Play PUMPKIN KNIGHT](https://mitsuruyamaura.github.io/test_sample_game/)
 
@@ -24,6 +24,9 @@
 
 ### COOKING
 ![COOKING](images/cooking_1.jpg)
+
+### ENCOUNTER_EVENT
+![ENCOUNTER_EVENT](images/event_1.jpg)
 
 ## Platform
 
