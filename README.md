@@ -28,6 +28,8 @@
 ### ENCOUNTER_EVENT
 ![ENCOUNTER_EVENT](images/event_1.jpg)
 
+![ENCOUNTER_EVENT](images/event_2.jpg)
+
 ## Platform
 
 - WebGL
