@@ -2,46 +2,71 @@
 
 ![PUMPKIN KNIGHT](images/key_visual.png)
 
-## 🎃 Play　↓ こちらからデモ版のプレイができます。
+## 🎃 Play
 
-[Play PUMPKIN KNIGHT](https://mitsuruyamaura.github.io/test_sample_game/)
+↓ こちらからデモ版をプレイできます。
 
-## About
+[**Play PUMPKIN KNIGHT**](https://mitsuruyamaura.github.io/test_sample_game/)
 
-魔女の力を取り戻すため、
-カボチャの騎士たちが「試練の夜」に挑む育成型ローグライクゲーム。
-タイムラインを操作し、スキルを駆使して戦います。新しいスキルが閃くことも！
+## ゲーム概要
+
+『PUMPKIN KNIGHT』は、魔女の力を取り戻すため、カボチャの騎士たちが「試練の夜」に挑む育成型ローグライクゲームです。
+マモノたちとのバトルや料理、さまざまな巡り合わせを通じて騎士を育成。タイムラインを操作し、スキルを駆使して戦います。戦闘中に新たなスキルが閃くことも！
+
+## 企画書（PDF）
+
+[PUMPKIN KNIGHT 企画書を読む（PDF）](documents/Pumpkin_Knight_Game_Design.pdf)
 
 ## Game Preview
 
-制作中のゲーム画面です。
+制作中のゲーム画面・プレイ動画です。
 
 ### MAIN
+
 ![MAIN](images/main_1.jpg)
 
 ### BATTLE
+
 ![BATTLE](images/battle_2.jpg)
 
-![BATTLE](images/flash_1.jpg)
+![SKILL FLASH](images/flash_1.jpg)
+
+### AUTO BATTLE（7 sec）
+
+<img src="images/auto_battle_1.gif" width="1080" alt="AUTO BATTLE">
+
+### TRICK OR TREAT（60 sec）
+
+<img src="images/trick_1.gif" width="1080" alt="TRICK OR TREAT">
 
 ### COOKING
+
 ![COOKING](images/cooking_1.jpg)
+
 ![COOKING](images/cooking_2.jpg)
-![COOKING](images/cooking_inventory_1.jpg)
 
-### ENCOUNTER_EVENT
-![ENCOUNTER_EVENT](images/event_1.jpg)
+![COOKING INVENTORY](images/cooking_inventory_1.jpg)
 
-![ENCOUNTER_EVENT](images/event_2.jpg)
+### ENCOUNTER EVENT
 
-### LEVEL_UP_AND_SKILL_SELECT
-![LEVEL_UP_AND_SKILL_SELECT](images/levelup_1.jpg)
-![LEVEL_UP_AND_SKILL_SELECT](images/skill_select_1.jpg)
+![ENCOUNTER EVENT](images/event_1.jpg)
 
-### CHARA_SELECT_AND_CHARA_MAKING
-![CHARA_SELECT_AND_CHARA_MAKING](images/charaSelect_1.jpg)
-![CHARA_SELECT_AND_CHARA_MAKING](images/charaMaking_1.jpg)
+![ENCOUNTER EVENT](images/event_2.jpg)
+
+### LEVEL UP & SKILL SELECT
+
+![LEVEL UP](images/levelup_1.jpg)
+
+![SKILL SELECT](images/skill_select_1.jpg)
+
+### CHARACTER SELECT & MAKING
+
+![CHARACTER SELECT](images/charaSelect_1.jpg)
+
+![CHARACTER MAKING](images/charaMaking_1.jpg)
 
 ## Platform
 
 - WebGL
+- steam
+- Nintendo Switch
