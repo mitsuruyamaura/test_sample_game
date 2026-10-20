@@ -41,6 +41,8 @@
 
 ### TRICK OR TREAT（60 sec）
 
+![BATTLE](images/battle_3.jpg)
+
 <img src="images/trick_1.gif" width="1080" alt="TRICK OR TREAT">
 
 ### COOKING
@@ -80,6 +82,12 @@
 ![TUTORIALS](images/tutorial_1.jpg)
 
 ![TUTORIALS](images/tutorial_2.jpg)
+
+![TUTORIALS](images/tutorial_3.jpg)
+
+### RECORD
+
+![RECORD](images/record_1.jpg)
 
 ## Platform
 
