@@ -57,11 +57,13 @@
 
 ![ENCOUNTER EVENT](images/event_2.jpg)
 
-### LEVEL UP & SKILL SELECT
+### LEVEL UP
 
 ![LEVEL UP](images/levelup_1.jpg)
 
 ![LEVEL UP](images/levelup_2.jpg)
+
+### SKILL SELECT
 
 ![SKILL SELECT](images/skill_select_1.jpg)
 
@@ -72,6 +74,12 @@
 ![CHARACTER SELECT](images/charaSelect_1.jpg)
 
 ![CHARACTER MAKING](images/charaMaking_1.jpg)
+
+### TUTORIALS
+
+![TUTORIALS](images/tutorial_1.jpg)
+
+![TUTORIALS](images/tutorial_2.jpg)
 
 ## Platform
 
