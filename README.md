@@ -10,8 +10,8 @@
 
 ## ゲーム概要
 
-『PUMPKIN KNIGHT』は、魔女の力を取り戻すため、カボチャの騎士たちが「試練の夜」に挑む育成型ローグライクゲームです。
-マモノたちとのバトルや料理、さまざまな巡り合わせを通じて騎士を育成。タイムラインを操作し、スキルを駆使して戦います。戦闘中に新たなスキルが閃くことも！
+『PUMPKIN KNIGHT』は、魔女の力を取り戻すため、カボチャの騎士たちを育成して「試練の夜」に挑むローグライクゲームです。
+マモノたちとのバトルやクラフト、さまざまな巡り合わせを通じて騎士を育成。タイムラインを操作し、スキルを駆使して戦います。戦闘中に新たなスキルが閃くことも！
 
 ## 企画書（PDF）
 
@@ -27,15 +27,21 @@
 
 ### BATTLE
 
+![BATTLE](images/battle_1.jpg)
+
 ![BATTLE](images/battle_2.jpg)
 
 ![SKILL FLASH](images/flash_1.jpg)
+
+![GRACE](images/grace_1.jpg)
 
 ### AUTO BATTLE（7 sec）
 
 <img src="images/auto_battle_1.gif" width="1080" alt="AUTO BATTLE">
 
 ### TRICK OR TREAT（60 sec）
+
+![BATTLE](images/battle_3.jpg)
 
 <img src="images/trick_1.gif" width="1080" alt="TRICK OR TREAT">
 
@@ -53,17 +59,35 @@
 
 ![ENCOUNTER EVENT](images/event_2.jpg)
 
-### LEVEL UP & SKILL SELECT
+### LEVEL UP
 
 ![LEVEL UP](images/levelup_1.jpg)
 
+![LEVEL UP](images/levelup_2.jpg)
+
+### SKILL SELECT
+
 ![SKILL SELECT](images/skill_select_1.jpg)
+
+![SKILL SELECT](images/skill_select_2.jpg)
 
 ### CHARACTER SELECT & MAKING
 
 ![CHARACTER SELECT](images/charaSelect_1.jpg)
 
 ![CHARACTER MAKING](images/charaMaking_1.jpg)
+
+### TUTORIALS
+
+![TUTORIALS](images/tutorial_1.jpg)
+
+![TUTORIALS](images/tutorial_2.jpg)
+
+![TUTORIALS](images/tutorial_3.jpg)
+
+### RECORD
+
+![RECORD](images/record_1.jpg)
 
 ## Platform
 
