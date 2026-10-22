@@ -10,8 +10,8 @@
 
 ## ゲーム概要
 
-『PUMPKIN KNIGHT』は、魔女の力を取り戻すため、カボチャの騎士たちを育成して「試練の夜」に挑むローグライクゲームです。
-マモノたちとのバトルやクラフト、さまざまな巡り合わせを通じて騎士を育成。タイムラインを操作し、スキルを駆使して戦います。戦闘中に新たなスキルが閃くことも！
+『PUMPKIN KNIGHT』は、魔女の力を取り戻すため、カボチャの騎士たちを育成して試練に挑むローグライクゲームです。
+マモノたちとのバトルやクラフト、さまざまなイベントを通じて騎士を育成。バトルではタイムラインを操作し、スキルを駆使して戦います。戦闘中に新たなスキルが閃くことも！
 
 ## 企画書（PDF）
 
@@ -77,6 +77,10 @@
 
 ![CHARACTER MAKING](images/charaMaking_1.jpg)
 
+### RECORD
+
+![RECORD](images/record_1.jpg)
+
 ### TUTORIALS
 
 ![TUTORIALS](images/tutorial_1.jpg)
@@ -85,9 +89,6 @@
 
 ![TUTORIALS](images/tutorial_3.jpg)
 
-### RECORD
-
-![RECORD](images/record_1.jpg)
 
 ## Platform
 
