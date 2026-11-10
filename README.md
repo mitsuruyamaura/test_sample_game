@@ -25,6 +25,8 @@
 
 ![MAIN](images/main_1.jpg)
 
+![MAIN](images/main_2.jpg)
+
 ### BATTLE
 
 ![BATTLE](images/battle_1.jpg)
@@ -76,6 +78,10 @@
 ![CHARACTER SELECT](images/charaSelect_1.jpg)
 
 ![CHARACTER MAKING](images/charaMaking_1.jpg)
+
+### POWER UP
+
+![MAIN](images/power_up.jpg)
 
 ### RECORD
 
