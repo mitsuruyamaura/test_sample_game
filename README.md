@@ -37,13 +37,17 @@
 
 ![GRACE](images/grace_1.jpg)
 
+### TRIAL
+
+![TRIAL](images/trial_1.jpg)
+
 ### AUTO BATTLE（7 sec）
 
 <img src="images/auto_battle_1.gif" width="1080" alt="AUTO BATTLE">
 
 ### TRICK OR TREAT（60 sec）
 
-![BATTLE](images/battle_3.jpg)
+![TRICK OR TREAT](images/battle_3.jpg)
 
 <img src="images/trick_1.gif" width="1080" alt="TRICK OR TREAT">
 
@@ -81,7 +85,7 @@
 
 ### POWER UP
 
-![MAIN](images/power_up.jpg)
+![POWER UP](images/power_up.jpg)
 
 ### RECORD
 
@@ -101,3 +105,4 @@
 - WebGL
 - steam
 - Nintendo Switch
+- Nintendo Switch 2
