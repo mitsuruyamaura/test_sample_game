@@ -87,6 +87,8 @@
 
 ![POWER UP](images/power_up.jpg)
 
+![POWER UP](images/soul_fire_1.jpg)
+
 ### RECORD
 
 ![RECORD](images/record_1.jpg)
