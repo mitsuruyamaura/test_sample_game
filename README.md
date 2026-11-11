@@ -105,6 +105,6 @@
 ## Platform
 
 - WebGL
-- steam
-- Nintendo Switch
-- Nintendo Switch 2
+- steam(展開予定)
+- Nintendo Switch(展開予定)
+- Nintendo Switch 2(展開予定)
