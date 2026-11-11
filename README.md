@@ -1,5 +1,6 @@
 # PUMPKIN KNIGHT
 
+Key Visual
 ![PUMPKIN KNIGHT](images/key_visual.png)
 
 ## 🎃 Play
@@ -13,9 +14,19 @@
 『PUMPKIN KNIGHT』は、魔女の力を取り戻すため、カボチャの騎士たちを育成して試練に挑むローグライクゲームです。
 マモノたちとのバトルやクラフト、さまざまなイベントを通じて騎士を育成。バトルではタイムラインを操作し、スキルを駆使して戦います。戦闘中に新たなスキルが閃くことも！
 
-## 企画書（PDF）
+---
 
-[PUMPKIN KNIGHT 企画書を読む（PDF）](documents/Pumpkin_Knight_Game_Design.pdf)
+## 📄 Project Documents
+
+ゲームの企画・開発計画に関する資料です。
+
+- [ゲーム企画書（PDF）](Documents/Pumpkin_Knight_Game_Design.pdf)
+  - ゲームの世界観、システム、ゲームサイクルなどを紹介しています。
+  - 
+- [開発・販売計画書（PDF）](Documents/Pumpkin_Knight_Development_Plan.pdf)
+  - 開発状況、販売目標、収支予測、今後の開発スケジュールなどをまとめています。
+
+---
 
 ## Game Preview
 
