@@ -1,6 +1,6 @@
 # PUMPKIN KNIGHT
 
-Key Visual
+**Key Visual**
 ![PUMPKIN KNIGHT](images/key_visual.png)
 
 ## 🎃 Play
@@ -9,14 +9,15 @@ Key Visual
 
 [**Play PUMPKIN KNIGHT**](https://mitsuruyamaura.github.io/test_sample_game/)
 
-## ゲーム概要
+## Summary - ゲーム概要
 
 『PUMPKIN KNIGHT』は、魔女の力を取り戻すため、カボチャの騎士たちを育成して試練に挑むローグライクゲームです。
-マモノたちとのバトルやクラフト、さまざまなイベントを通じて騎士を育成。バトルではタイムラインを操作し、スキルを駆使して戦います。戦闘中に新たなスキルが閃くことも！
+マモノたちとのバトルやクラフト、さまざまなイベントを通じて騎士を育成します。バトルではタイムラインを操作し、スキルを駆使して戦います。
+戦闘中に新たなスキルが閃くこともあります。
 
 ---
 
-## 📄 Project Documents
+## 📄 Project Documents - 企画書・開発販売計画書
 
 ゲームの企画・開発計画に関する資料です。
 
@@ -28,7 +29,7 @@ Key Visual
 
 ---
 
-## 開発環境・ビルド環境
+## Development Environment - 開発環境・ビルド環境
 
 - **ゲームエンジン：** Unity 6000.3.23f1
 - **CI/CD：** GitHub Actions
@@ -39,7 +40,7 @@ Key Visual
 
 ---
 
-## 画像素材について
+## Image Assets Notice - 画像素材について
 
 本ページに掲載しているゲーム画面・イラストの一部には、開発中のイメージを伝えるために生成AIで作成した仮素材を使用しています。
 これらは最終的な製品版のアセットではなく、今後、正式なイラスト・デザイン素材への差し替えを予定しています。
