@@ -139,6 +139,7 @@
 ## Platform
 
 - WebGL
+- Android(展開予定)
 - steam(展開予定)
 - Nintendo Switch(展開予定)
 - Nintendo Switch 2(展開予定)
