@@ -32,6 +32,10 @@ Key Visual
 
 制作中のゲーム画面・プレイ動画です。
 
+### OPENING
+
+![OPENING](images/opening.jpg)
+
 ### MAIN
 
 ![MAIN](images/main_1.jpg)
