@@ -24,7 +24,7 @@
 - [ゲーム企画書 40ページ（PDF）](documents/Pumpkin_Knight_Game_Design.pdf)
   - ゲームの世界観、システム、ゲームサイクルなどを紹介しています。
   - 
-- [開発・販売計画書 13ぺーじ（PDF）](documents/Pumpkin_Knight_Development_Plan.pdf)
+- [開発・販売計画書 13ページ（PDF）](documents/Pumpkin_Knight_Development_Plan.pdf)
   - 開発状況、販売目標、収支予測、今後の開発スケジュールなどをまとめています。
 
 ---
