@@ -17,7 +17,7 @@
 
 ---
 
-## 📄 Project Documents - 企画書・開発販売計画書
+## 📄 Project Documents - ゲーム企画書／開発・販売計画書
 
 ゲームの企画・開発計画に関する資料です。
 
