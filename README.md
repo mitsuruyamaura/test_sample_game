@@ -82,6 +82,10 @@
 
 <img src="images/auto_battle_1.gif" width="1080" alt="AUTO BATTLE">
 
+### SKILL FLASH（7 sec）
+
+<img src="images/auto_battle_2.gif" width="1080" alt="AUTO BATTLE">
+
 ### TRICK OR TREAT（60 sec）
 
 ![TRICK OR TREAT](images/battle_3.jpg)
